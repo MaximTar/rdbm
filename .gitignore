@@ -1,0 +1,9 @@
+.idea/*
+out/*
+*.iml
+*.log*
+
+# temp files
+dbc:hsqldb:file:/*
+home/*
+src/main/java/com/github/rdbm/trash/*
